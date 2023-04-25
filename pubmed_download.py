@@ -12,7 +12,7 @@ if not os.path.isdir('pubmed_portions'):
     os.mkdir('pubmed_portions')
 
 # download pubmed in portions
-portion_size = 1000000 # 1 entries per portion
+portion_size = 1000000 # 1 mil entries per portion
 pubmed_portion = []
 counter = 0
 
