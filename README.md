@@ -1,5 +1,5 @@
 # Download all of PubMed abstracts 
-## (plus some other info)
+## (plus some other info: pmid, year, abstract text, abstract title, and authors)
 
 ## Setup:
 ### Environment stuff
