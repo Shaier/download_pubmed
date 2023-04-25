@@ -1,4 +1,4 @@
-# Download all of PubMed
+# Download all of PubMed abstracts (plus some other info)
 
 ## Setup:
 ### Environment stuff
