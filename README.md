@@ -1,5 +1,5 @@
 # Download all of PubMed abstracts 
-## (plus some other info: pmid, year, abstract text, abstract title, and authors).
+#### (plus some other info: pmid, year, abstract text, abstract title, and authors).
 ## This script downloads these data in json file portions (default size is size of 1 mil entries per portion).
 
 ## Setup:
