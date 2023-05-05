@@ -17,3 +17,11 @@ git clone https://github.com/Shaier/download_pubmed.git
 cd download_pubmed/
 python pubmed_download.py
 ```
+
+## Huggingface option
+#### I also uploaded the resulting files to huggingface. You can load them with:
+```
+from datasets import load_dataset
+pubmed_dataset = load_dataset("Shaier/pubmed")
+```
+#### The last abstract I currently have there is dated as June 2022.
