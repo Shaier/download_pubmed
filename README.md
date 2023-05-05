@@ -19,7 +19,7 @@ python pubmed_download.py
 ```
 
 ## Huggingface option
-#### I also uploaded the resulting files to huggingface. You can load them with:
+#### I also uploaded the resulting files to huggingface. The dataset contains 20.5M entries (removed those with empty authors list, no title, or no abstract). You can load them with:
 ```
 from datasets import load_dataset
 pubmed_dataset = load_dataset("Shaier/pubmed")
